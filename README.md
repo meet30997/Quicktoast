@@ -34,7 +34,16 @@ private Quicktoast toast = new Quicktoast(this);
 2. ```toast.swarn("Warning");``` // For Warning Short Toast
 
 # Info Toast
-<img src="https://drive.google.com/uc?id=1Pd_AStiX5GiYbd36ssOFvbf_sfxG9fnK" height="40" width="200"></img>
+<img src="https://drive.google.com/uc?id=1Pd_AStiX5GiYbd36ssOFvbf_sfxG9fnK" height="45" width="200"></img>
 1. ```toast.linfo("Info");``` // For Info Long Toast <br><br>
 2. ```toast.sinfo("info");``` // For Info Short Toast
 
+# How to contribute?
+
+1. Fork the project. ❤️
+2. Make required changes and commit.
+3. Generate pull request. Mention all the required description regarding changes you made.
+Happy coding.:-)
+
+# License
+<b>This Project</b> is licensed under `MIT license`. View [license](LICENSE).
