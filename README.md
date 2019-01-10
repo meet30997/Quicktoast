@@ -3,7 +3,8 @@ Quickest way to show a toast in android!
 
 # Installation
 <b>Add it in your root build.gradle :</b>
-``` allprojects {
+``` 
+allprojects {
 		repositories {
 			...
 			maven { url 'https://jitpack.io' }
